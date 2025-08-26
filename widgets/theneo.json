@@ -1,7 +1,7 @@
 {
   "id": "68ad9821d53912775e108ccf",
   "name": "widgets",
-  "lastExport": "2025-08-26T11:19:37.616Z",
+  "lastExport": "2025-08-26T11:42:18.860Z",
   "baseUrl": "http://app.theneo.io",
   "sections": [
     {
@@ -207,11 +207,11 @@
         },
         {
           "name": "Dev Tools API Examples",
-          "slug": "rest-api-reference/hr-management-examples",
+          "slug": "rest-api-reference/dev-tools-api-examples",
           "children": [
             {
               "name": "List branches",
-              "slug": "rest-api-reference/hr-management-examples/list-branches",
+              "slug": "rest-api-reference/dev-tools-api-examples/list-branches",
               "children": [],
               "isHeader": false,
               "externalPageLink": "",
@@ -219,7 +219,7 @@
             },
             {
               "name": "Get a branch",
-              "slug": "rest-api-reference/hr-management-examples/get-a-branch",
+              "slug": "rest-api-reference/dev-tools-api-examples/get-a-branch",
               "children": [],
               "isHeader": false,
               "externalPageLink": "",
@@ -227,7 +227,7 @@
             },
             {
               "name": "Rename a branch",
-              "slug": "rest-api-reference/hr-management-examples/rename-a-branch",
+              "slug": "rest-api-reference/dev-tools-api-examples/rename-a-branch",
               "children": [],
               "isHeader": false,
               "externalPageLink": "",
@@ -235,7 +235,7 @@
             },
             {
               "name": "Get a schedule",
-              "slug": "rest-api-reference/hr-management-examples/get-a-schedule",
+              "slug": "rest-api-reference/dev-tools-api-examples/get-a-schedule",
               "children": [],
               "isHeader": false,
               "externalPageLink": "",
@@ -243,7 +243,7 @@
             },
             {
               "name": "Update a schedule",
-              "slug": "rest-api-reference/hr-management-examples/update-a-schedule",
+              "slug": "rest-api-reference/dev-tools-api-examples/update-a-schedule",
               "children": [],
               "isHeader": false,
               "externalPageLink": "",
@@ -251,7 +251,7 @@
             },
             {
               "name": "Delete a schedule",
-              "slug": "rest-api-reference/hr-management-examples/delete-a-schedule",
+              "slug": "rest-api-reference/dev-tools-api-examples/delete-a-schedule",
               "children": [],
               "isHeader": false,
               "externalPageLink": "",
@@ -344,15 +344,15 @@
     },
     {
       "name": "SOAP API Reference",
-      "slug": "soap-api-referenc",
+      "slug": "soap-api-reference",
       "children": [
         {
           "name": "Payments / Banking API example",
-          "slug": "soap-api-referenc/payments-banking-api-example",
+          "slug": "soap-api-reference/payments-banking-api-example",
           "children": [
             {
               "name": "Create bank account",
-              "slug": "soap-api-referenc/payments-banking-api-example/create-bank-account",
+              "slug": "soap-api-reference/payments-banking-api-example/create-bank-account",
               "children": [],
               "isHeader": false,
               "externalPageLink": "",
@@ -360,7 +360,7 @@
             },
             {
               "name": "Create entity",
-              "slug": "soap-api-referenc/payments-banking-api-example/create-entity",
+              "slug": "soap-api-reference/payments-banking-api-example/create-entity",
               "children": [],
               "isHeader": false,
               "externalPageLink": "",
@@ -368,7 +368,7 @@
             },
             {
               "name": "Create invoice",
-              "slug": "soap-api-referenc/payments-banking-api-example/create-invoice",
+              "slug": "soap-api-reference/payments-banking-api-example/create-invoice",
               "children": [],
               "isHeader": false,
               "externalPageLink": "",
@@ -376,7 +376,7 @@
             },
             {
               "name": "Delete entity",
-              "slug": "soap-api-referenc/payments-banking-api-example/delete-entity",
+              "slug": "soap-api-reference/payments-banking-api-example/delete-entity",
               "children": [],
               "isHeader": false,
               "externalPageLink": "",
@@ -384,7 +384,7 @@
             },
             {
               "name": "Get invoice ID by number",
-              "slug": "soap-api-referenc/payments-banking-api-example/get-invoice-id-by-number",
+              "slug": "soap-api-reference/payments-banking-api-example/get-invoice-id-by-number",
               "children": [],
               "isHeader": false,
               "externalPageLink": "",
@@ -392,7 +392,7 @@
             },
             {
               "name": "List bank accounts",
-              "slug": "soap-api-referenc/payments-banking-api-example/list-bank-accounts",
+              "slug": "soap-api-reference/payments-banking-api-example/list-bank-accounts",
               "children": [],
               "isHeader": false,
               "externalPageLink": "",
@@ -517,7 +517,7 @@
             },
             {
               "name": "String",
-              "slug": "graphql-api-reference/scalars/int-1",
+              "slug": "graphql-api-reference/scalars/string",
               "children": [],
               "isHeader": false,
               "externalPageLink": "",
